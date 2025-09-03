@@ -12,10 +12,10 @@ while contador <= 5:
 
 print (contador)
 
-contador = 1
-while False: ## hay que tener cuidado de que no sea siempre verdadero
-  print(contador)
-  contador += 1
+# contador = 1
+# while True: ## hay que tener cuidado de que no sea siempre verdadero
+#   print(contador)
+#   contador += 1
 
 
 numero = int(input("Ingrese numero: "))
