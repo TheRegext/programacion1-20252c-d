@@ -9,11 +9,5 @@ Vimos la introducción al curso y ejemplos de ingresos promedios y salida
 
 Link: https://youtu.be/udH6BF-ecPg
 
--djksajd
--dhjskahdsa
-
-1. dsajkdsla
-2. dsjkajldksa
-
 ## Credito
 Prof. Brian Lara
