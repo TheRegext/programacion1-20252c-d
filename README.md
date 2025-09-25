@@ -8,3 +8,6 @@ Este curso está diseñado para introducir a los estudiantes en los conceptos fu
 Vimos la introducción al curso y ejemplos de ingresos promedios y salida
 
 Link: https://youtu.be/udH6BF-ecPg
+
+## Credito
+Prof. Brian Lara
